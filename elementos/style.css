@@ -1,0 +1,15 @@
+body {
+    margin: 5px;
+}
+
+p {
+    background-color: limegreen;
+}
+
+span {
+    background-color: lightblue;
+}
+
+.inline-block span {
+    display: inline-block;
+}

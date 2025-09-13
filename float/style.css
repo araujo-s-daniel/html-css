@@ -1,0 +1,16 @@
+h2 {
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.ex2 h2 {
+    float: right;
+}
+
+h4 {
+    margin-top: 5px;
+}
+
+.ex3 p {
+    clear: both;
+}
